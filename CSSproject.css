@@ -1,0 +1,174 @@
+h1
+{
+	color:#000000;
+}
+
+footer
+{
+	color:#000000;
+}
+
+#page 	
+{
+
+	min-width: 900px;        
+	max-width: 1200px;		
+	margin-right:auto;
+	margin-left:auto;
+	border:solid 5px yellow;
+	position:relative;
+
+}
+
+
+
+
+
+#center
+{
+	margin-left:28%;                           
+	margin-right:28%;    
+	background: #e6c200;				   
+}
+
+#left
+{
+	width:25%;
+	float:left;
+	background-color:#83F52C;
+}
+
+#right
+{
+	width:22%;
+	float:right;
+	background-color: #83F52C;
+}
+
+body 	
+{
+	margin: 0;
+	padding: 0;
+	background: #FFffff;
+	background: url(background.jpg);
+}
+
+header
+{
+		font-size: large;
+		text-align: center;
+		padding: 1em 0;
+		background-color: #FFD700;
+}
+		
+footer
+{
+	clear: both;
+	color: #272900;
+	text-align: right;
+	font-size: 90%;
+	background: grey;
+	padding: 5px;
+}
+
+
+h1
+{
+	text-align:center;
+}
+
+p
+{
+font-weight:bold;
+text-align:center;
+}
+
+nav
+{
+	text-align:center;
+}
+
+nav a
+{
+	display:inline-block;
+	width: 180px;
+	background-color:#008000;
+	text-decoration: none;
+	color:#FFD700;
+	font-weight:bold;
+	text-align:center;
+}
+
+nav a:hover
+{
+	color:#000000;
+}
+
+h1.fix
+{
+	text-align:center;
+	color:#FF0000 ;
+	font-weight:bold;
+}
+
+dt
+{
+	color:#FF0000;
+	text-align:center;
+	font-size: 135%;
+	font-weight:bold;
+}
+
+table, td, th
+{
+border: 1px solid #A9ACB6
+}
+
+th
+{
+	background:#FDD017;
+	color:#000080;
+}
+
+td.pos
+{
+	background-color:#838B8B ;
+	color:#00009C ;
+}
+
+td.teamcol
+{
+	background-color:#FFA500
+}
+
+td.point
+{
+	background-color:#008000;
+	color: #ffffff;
+}
+
+td.play
+{
+	color: #3D352A
+}
+
+
+tr.team
+{
+	color: #ff0000;
+	font-weight:bold;
+}
+
+
+img.contact
+{ 
+    max-width: 100%; 
+    height: auto; 
+}
+
+#team
+{
+color: #ff0000;
+font-weight:bold;
+background-color:#5D478B; 
+}
